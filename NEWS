@@ -2,6 +2,9 @@ PHP                                                                        NEWS
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ?? ??? ????, PHP 7.3.26
 
+- Core:
+  . Fixed bug #80393 (Build of PHP extension fails due to configuration gap
+    with libtool). (kir dot morozov at gmail dot com)
 
 26 Nov 2020, PHP 7.3.25
 
